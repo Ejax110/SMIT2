@@ -1,0 +1,12 @@
+<html>
+<head>
+ <title>SMIT</title>
+</head>
+<body>
+ <h1>New World</h1>
+ <p><b>Innovation</b> drives progress and shapes the future of technology.</p>
+ <p>The <i>brilliant</i> scientist made groundbreaking discoveries in the field of quantum physics.</p> 
+</body>
+</html>
+
+

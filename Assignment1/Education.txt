@@ -1,0 +1,10 @@
+<html>
+<head>
+ <title>SMIT</title>
+</head>
+<body>
+ <h1>Education</h1>
+ <p>The <i>giggling</i> children played in the sparkling water of the swimming pool.</p>
+ <p><b>Education</b> is the key to unlocking endless opportunities in life.</p> 
+</body>
+</html>

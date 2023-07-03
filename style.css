@@ -1,0 +1,16 @@
+.container{
+    border: 1px solid rgb(44, 95, 189);
+    border-radius: 4px;
+    width: 600px;
+    height: auto;
+    padding: 10px 10px 10px 10px;
+    margin: 100px 100px 100px 700px;
+    background-color: rgb(92, 177, 231);
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    
+}
+body{
+    background-color: rgb(28, 30, 29);
+}

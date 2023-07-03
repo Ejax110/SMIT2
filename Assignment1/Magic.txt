@@ -1,0 +1,10 @@
+<html>
+<head>
+ <title>SMIT</title>
+</head>
+<body>
+ <h1>Magic</h1>
+ <p>The <i>gently</i> falling snowflakes created a <b>magical</b> atmosphere in the winter wonderland.</p>
+ <p>He had a <b>brilliant</b> idea that could revolutionize the way we communicate.</p> 
+</body>
+</html>

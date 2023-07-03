@@ -1,0 +1,33 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    color: rgba(10, 10, 10, 0.984);
+}
+
+
+.container {
+    border: 0.5px solid white;
+    width: auto;
+    padding: 2px 2px 2px 114px;
+    margin: -800px 5px 5px 5px;
+    
+
+
+}
+
+#back {
+    display: block;
+    border: 1px solid black;
+    width: 2000px;
+    height: 800px;
+    padding: 5px 5px 5px 5px;
+    margin: 25px 5px 5px 12px;
+
+}
+
+#para {
+    font-size: 29px;
+    font-weight: 200px;
+
+
+}

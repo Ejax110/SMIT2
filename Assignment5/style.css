@@ -1,0 +1,20 @@
+#div {
+    border: 1px solid grey;
+    width: 525px;
+    background: #939191;
+}
+
+table {
+    text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#mytable {
+    background: #d2f3f0;
+    border: 1px solid black;    
+    width: 500px;
+    height: 500px;
+    margin: 12px;
+
+
+}

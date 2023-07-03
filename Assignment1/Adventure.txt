@@ -1,0 +1,12 @@
+<html>
+<head>
+ <title>SMIT</title>
+</head>
+<body>
+ <h1>Adventure</h1>
+ <p><b>Adventure</b> awaits those who dare to step out of their comfort zone.</p>
+ <p>With <i>determination</i> and perseverance, she overcame every obstacle in her path.</p> 
+</body>
+</html>
+
+

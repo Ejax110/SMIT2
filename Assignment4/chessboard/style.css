@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(148, 218, 193);
+}
+
+.container{
+    margin: 5px 250px;
+}
+.white{
+background-color: white;
+}
+.grey{
+    background-color: grey;
+
+}
+.table{
+    background-color: bisque;
+    padding: 15px 15px 15px 15px;
+    margin: 20px 0px 0px 5px;
+}

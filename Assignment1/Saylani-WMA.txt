@@ -1,0 +1,12 @@
+<html>
+<head>
+ <title>SMIT</title>
+</head>
+<body>
+ <h1>Saylani-WMA</h1>
+ <p>The artist's <b>unique</b> style of painting attracted     collectors from around the world.</p>
+ <p>The <i>fragrant</i> flowers filled the air with a     delightful scent.</p> 
+</body>
+</html>
+
+

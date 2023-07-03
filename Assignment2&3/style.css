@@ -1,0 +1,32 @@
+body {
+    background-color: #a7edba;
+}
+
+#logo {
+    border: none;
+    width: 1000px;
+    padding: 14px 65px 14px 35px;
+    margin: 15px 0px 0px 180px;
+}
+
+.container {
+    border: none;
+    width: 1000px;
+    padding: 5px 5px;
+    margin: auto;
+}
+
+.container2 {
+    border: 1px solid red;
+    width: 150px;
+    background-color: rgb(149, 139, 129);
+    height: 270px;
+
+
+}
+
+#list {
+    padding: 10px 10px;
+    margin: -25px -2px;
+}
+
