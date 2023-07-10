@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
 
 
 
@@ -482,7 +482,7 @@ div .button2 .btn2-3 {
     display: block;
     position: relative;
     width: 100%;
-    height: 500px;
+    height: 550px;
     top: 858px;
     background-color: rgb(0, 0, 0);
     font-family: serif;
@@ -490,25 +490,28 @@ div .button2 .btn2-3 {
 
 .footer .logoimg {
     position: absolute;
-    top: 150px;
-    left: 200px;
+    top: 60px;
+    left: 100px;
 }
 
 .footer div p {
     position: absolute;
     color: white;
-    width: 360px;
-    top: 210px;
-    left: 200px;
-    line-height: 25px;
+    width: 500px;
+    top: 130px;
+    left: 100px;
+    line-height: 30px;
     word-spacing: 4px;
+    letter-spacing: 2px;
+    font-family: sans-serif;
+    font-size: 18px;
 
 }
 
 .footer .links h3 {
     position: absolute;
     color: white;
-    top: 140px;
+    top: 60px;
     left: 700px;
     font-size: 18px;
     word-spacing: 4px;
@@ -517,8 +520,59 @@ div .button2 .btn2-3 {
 
 .footer .links ul{
     position: absolute;
-    top: 140px;
+    top: 115px;
     color: white;
+    list-style-type: none;
+    font-size: 18px;
+    font-family: sans-serif;
+    left: 661px;
+    line-height: 50px;
+    letter-spacing: 4px;
+    word-spacing: 2px;
+
 }
+.footer .links ul li:hover{
+      color: rgb(159, 159, 159);
+      cursor: pointer;
+}
+
+.footer .contact h3{
+    position: absolute;
+    color: white;
+    top: 60px;
+    right: 590px;
+    font-size: 18px;
+    word-spacing: 4px;
+    letter-spacing: 2px;
+}
+
+.footer .contact ul{
+    position: absolute;
+    top: 115px;
+    right: 450px;
+    color: white;
+    list-style-type: none;
+    font-size: 18px;
+    font-family: sans-serif;
+    line-height: 50px;
+    letter-spacing: 4px;
+    word-spacing: 2px;
+}
+
+.footer .contact p{
+    position: absolute;
+    top: 375px;
+    color: white;
+    left: 965px;
+    width: 300px;
+    line-height: 30px;
+    word-spacing: 4px;
+    letter-spacing: 2px;
+    font-family: sans-serif;
+    font-size: 18px;
+}
+
+
+
 
 /* section footer end */
