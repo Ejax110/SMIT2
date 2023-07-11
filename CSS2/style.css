@@ -482,7 +482,7 @@ div .button2 .btn2-3 {
     display: block;
     position: relative;
     width: 100%;
-    height: 550px;
+    height: 600px;
     top: 858px;
     background-color: rgb(0, 0, 0);
     font-family: serif;
@@ -518,7 +518,7 @@ div .button2 .btn2-3 {
     letter-spacing: 2px;
 }
 
-.footer .links ul{
+.footer .links ul {
     position: absolute;
     top: 115px;
     color: white;
@@ -531,12 +531,13 @@ div .button2 .btn2-3 {
     word-spacing: 2px;
 
 }
-.footer .links ul li:hover{
-      color: rgb(159, 159, 159);
-      cursor: pointer;
+
+.footer .links ul li:hover {
+    color: rgb(159, 159, 159);
+    cursor: pointer;
 }
 
-.footer .contact h3{
+.footer .contact h3 {
     position: absolute;
     color: white;
     top: 60px;
@@ -546,7 +547,7 @@ div .button2 .btn2-3 {
     letter-spacing: 2px;
 }
 
-.footer .contact ul{
+.footer .contact ul {
     position: absolute;
     top: 115px;
     right: 450px;
@@ -557,9 +558,16 @@ div .button2 .btn2-3 {
     line-height: 50px;
     letter-spacing: 4px;
     word-spacing: 2px;
+
+
 }
 
-.footer .contact p{
+.footer .contact li:hover {
+    color: rgb(159, 159, 159);
+    cursor: pointer;
+}
+
+.footer .contact p {
     position: absolute;
     top: 375px;
     color: white;
@@ -572,7 +580,140 @@ div .button2 .btn2-3 {
     font-size: 18px;
 }
 
+.footer .follow h3 {
+    position: absolute;
+    color: white;
+    top: 60px;
+    right: 210px;
+    font-size: 18px;
+    word-spacing: 4px;
+    letter-spacing: 2px;
 
+}
 
+.footer .facebook img {
+    position: absolute;
+    width: 50px;
+    top: 120px;
+    right: 300px;
+    cursor: pointer;
+}
+
+.footer .insta img {
+    position: absolute;
+    width: 50px;
+    top: 120px;
+    right: 220px;
+    cursor: pointer;
+}
+
+.footer .twitter img {
+    position: absolute;
+    width: 50px;
+    top: 120px;
+    right: 140px;
+    cursor: pointer;
+
+}
+
+.footer .appstore img {
+    position: absolute;
+    width: 50px;
+    top: 200px;
+    right: 215px;
+    cursor: pointer;
+}
+
+.footer .appstore span {
+    position: absolute;
+    color: white;
+    top: 270px;
+    right: 110px;
+    word-spacing: 2px;
+    letter-spacing: 2px;
+}
+
+.footer .playstore img {
+    position: absolute;
+    width: 50px;
+    top: 310px;
+    right: 215px;
+    cursor: pointer;
+
+}
+
+.footer .playstore span {
+    position: absolute;
+    color: white;
+    top: 380px;
+    right: 110px;
+    word-spacing: 4px;
+    letter-spacing: 2px;
+
+}
+
+.footer .policy p a {
+    position: absolute;
+    color: #d5d5d5;
+    top: 270px;
+    word-spacing: -2px;
+    text-decoration: none;
+}
+
+.footer .policy span a {
+    position: absolute;
+    color: #d7d4d4;
+    top: 423px;
+    word-spacing: -2px;
+    text-decoration: none;
+    left: 352px;
+    letter-spacing: 1px;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+
+.footer hr {
+    position: absolute;
+    width: 100%;
+    height: 0px;
+    border: 0.5px solid #3e3c3c;
+    bottom: 60px;
+}
+
+.footer .copyright img {
+    position: absolute;
+    width: 20px;
+    bottom: 20px;
+    left: 100px;
+
+}
+
+.footer .copyright span {
+    position: absolute;
+    color: white;
+    bottom: 14px;
+    left: 130px;
+    font-size: 28px;
+    font-family: sans-serif;
+    word-spacing: 2px;
+    letter-spacing: 2px;
+
+}
+
+.footer .assign p {
+    position: absolute;
+    color: white;
+    top: 528px;
+    left: 1130px;
+    font-size: 28px;
+    font-family: sans-serif;
+    word-spacing: 2px;
+    letter-spacing: 2px;
+
+}
+@media screen {
+    max-width: 400%;
+    
+}
 
 /* section footer end */
