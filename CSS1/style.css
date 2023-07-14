@@ -1,8 +1,23 @@
-.poem img{
-    display: inline-block;
+
+
+body{
+    background-color: black;
+}
+
+.poem{
+    display: block;
     position: relative;
     width: 100%;
 }
+
+.poem img{
+    
+    position: absolute;
+    top: 200px;
+    left: 250px;
+}
+
+    
 
 .poem .box{
     position: absolute;
